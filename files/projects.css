@@ -1,0 +1,15 @@
+@import url(//db.onlinewebfonts.com/c/6a28a1fb5b77054a12626d0c23c92aa2?family=CeraCY-Bold);
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    background-color: #20262a;
+    scroll-behavior: smooth;
+}
